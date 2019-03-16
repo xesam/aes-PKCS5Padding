@@ -1,0 +1,11 @@
+{
+    "name": "aes-PKCS5Padding",
+    "description": "",
+    "version": "0.1.0",
+    "author": "xesam <xesamguo@gmail.com>",
+    "license": "MIT",
+    "private": true,
+    "dependencies": {
+        "aes-js": "3.1.2"
+    }
+}
